@@ -39,5 +39,4 @@ target_link_libraries(
 )
 ```
 
-It's not working for x86 due to TEXTREL x264 lib, that has to be solved.
 It's tested and working fine on arm64 and arm32.
